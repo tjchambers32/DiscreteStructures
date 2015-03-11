@@ -1,0 +1,9 @@
+,:-:-'strings don''t mind apostrophes','multi
+line string'
+
+# ignore me
+
+#|multiline comment
+continue
+continue
+|#
